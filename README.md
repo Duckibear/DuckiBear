@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Erica Sue</h1>
+<h1 align="center">Hi 👋, I'm Erica</h1>
 <h3 align="center">A passionate Full-Stack Software Engineer with a background in Project Management and Accounting.</h3>
 
 - 🔭 I’m currently working on **Pasta Gun RPG**
